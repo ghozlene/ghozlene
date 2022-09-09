@@ -113,13 +113,13 @@ ___
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozlene&sshow_icons=true&theme=radical&locale=en&layout=compact"
-        alt="ghozlene" width="400"/></p>
+        alt="ghozlene" width="350"/></p>
 
 <p>&nbsp;<img align="right"
         src="https://github-readme-stats.vercel.app/api?username=ghozlene&sshow_icons=true&theme=radical&locale=en"
-        alt="ghozlene" width="400" />
+        alt="ghozlene" width="450" />
 </p>
 
 <p> &nbsp;<img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=ghozlene&sshow_icons=true&theme=radical"
-        alt="ghozlene" width="400" /></p>
+        alt="ghozlene" width="450" /></p>
