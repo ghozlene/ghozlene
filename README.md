@@ -7,7 +7,9 @@ ___
     width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghozlene&label=Profile%20views&color=0e75b6&style=flat"
         alt="ghozlene" /> </p>
-___
+
+
+
 - 🌱 I’m currently learning **React native**
 
 - 💬 Ask me about **MERN,FLUTTER,AWS,DOCKER**
@@ -115,7 +117,7 @@ ___
 
 <p>&nbsp;<img align="right"
         src="https://github-readme-stats.vercel.app/api?username=ghozlene&sshow_icons=true&theme=radical&locale=en"
-        alt="ghozlene" width="450" />
+        alt="ghozlene" width="400" />
 </p>
 
 <p> &nbsp;<img align="center"
