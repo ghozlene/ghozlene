@@ -1,6 +1,5 @@
 <img align="center" height="300" width="3000" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"
     alt="banner">
-
 ___
 <h1 align="center">Hi 👋, I'm GHOZLENE Mohamed Achref</h1>
 <h3 align="center">A passionate FullStack developer from Tunisia 🚀</h3>
@@ -114,11 +113,11 @@ ___
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozlene&sshow_icons=true&theme=radical&locale=en&layout=compact"
         alt="ghozlene" /></p>
 
-<p>&nbsp;<img align="center"
+<p>&nbsp;<img align="right"
         src="https://github-readme-stats.vercel.app/api?username=ghozlene&sshow_icons=true&theme=radical&locale=en"
         alt="ghozlene" />
 </p>
 
-<p><img align="center"
+<p><img align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=ghozlene&sshow_icons=true&theme=radical"
         alt="ghozlene" /></p>
