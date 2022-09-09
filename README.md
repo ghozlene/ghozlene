@@ -1,4 +1,4 @@
-<img align="center" height="400" width="3000" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"
+<img align="center" height="250" width="3000" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"
     alt="banner">
 
 <h1 align="center">Hi 👋, I'm GHOZLENE Mohamed Achref</h1>
