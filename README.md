@@ -1,6 +1,6 @@
-<img align="center" height="400" width="3000" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"
+<img align="center" height="300" width="3000" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"
     alt="banner">
-<br>
+<br />
 
 <h1 align="center">Hi 👋, I'm GHOZLENE Mohamed Achref</h1>
 <h3 align="center">A passionate FullStack developer from Tunisia 🚀</h3>
@@ -14,7 +14,9 @@
 - 💬 Ask me about **MERN,FLUTTER,AWS,DOCKER**
 
 - 📫 How to reach me **medachrefg@gmail.com**
-<br>
+
+<br />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/mohamed-achref-ghozlene" target="blank"><img align="center"
@@ -25,7 +27,7 @@
             alt="achref-ghozlene" height="30" width="40" /></a>
 </p>
 
-<br>
+<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
@@ -106,7 +108,7 @@
             alt="webpack" width="40" height="40" /> </a>
 </p>
 
-<br>
+<br />
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozlene&sshow_icons=true&theme=radical&locale=en&layout=compact"
@@ -119,4 +121,4 @@
 
 <p><img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=ghozlene&sshow_icons=true&theme=radical"
-        alt="ghozlene" />
+        alt="ghozlene" /></p>
