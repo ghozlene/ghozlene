@@ -1,21 +1,21 @@
 <img align="center" height="300" width="3000" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"
     alt="banner">
-<br />
 
+___
 <h1 align="center">Hi 👋, I'm GHOZLENE Mohamed Achref</h1>
 <h3 align="center">A passionate FullStack developer from Tunisia 🚀</h3>
 <img align="right" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coding"
     width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghozlene&label=Profile%20views&color=0e75b6&style=flat"
         alt="ghozlene" /> </p>
-
+___
 - 🌱 I’m currently learning **React native**
 
 - 💬 Ask me about **MERN,FLUTTER,AWS,DOCKER**
 
 - 📫 How to reach me **medachrefg@gmail.com**
 
-<br />
+___
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,7 @@
             alt="achref-ghozlene" height="30" width="40" /></a>
 </p>
 
-<br />
+___
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
@@ -108,7 +108,7 @@
             alt="webpack" width="40" height="40" /> </a>
 </p>
 
-<br />
+___
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozlene&sshow_icons=true&theme=radical&locale=en&layout=compact"
