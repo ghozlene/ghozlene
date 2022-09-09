@@ -1,4 +1,4 @@
-<img align="center" height="250" width="3000" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"
+<img align="center" height="400" width="3000" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"
     alt="banner">
 
 <h1 align="center">Hi 👋, I'm GHOZLENE Mohamed Achref</h1>
@@ -104,11 +104,12 @@
 </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozlene&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozlene&sshow_icons=true&theme=radical&locale=en&layout=compact"
         alt="ghozlene" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ghozlene&show_icons=true&locale=en" alt="ghozlene" />
+        src="https://github-readme-stats.vercel.app/api?username=ghozlene&sshow_icons=true&theme=radical&locale=en"
+        alt="ghozlene" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghozlene&" alt="ghozlene" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghozlene&sshow_icons=true&theme=radical" alt="ghozlene" /></p>
