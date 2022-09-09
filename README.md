@@ -117,7 +117,7 @@ ___
 
 <p>&nbsp;<img align="right"
         src="https://github-readme-stats.vercel.app/api?username=ghozlene&sshow_icons=true&theme=radical&locale=en"
-        alt="ghozlene" width="450" />
+        alt="ghozlene" width="300" />
 </p>
 
 <p> &nbsp;<img align="center"
