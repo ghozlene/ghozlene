@@ -34,7 +34,8 @@ ___
 <p align="left">
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
             src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"
-            alt="nestjs" width="40" height="40" />
+            alt="nestjs" width="40" height="40" onmouseenter="this.style.color=red"
+            style="hover  border-radius: 20%; border:1px solid gray;" />
     </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
             src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
@@ -79,9 +80,12 @@ ___
             width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://jestjs.io" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40"
-            height="40" /> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
+            alt="javascript" width="40" height="40" /> </a>
+    <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo-shadow.svg"
+            alt="ionic" width="40" height="40" /> </a>
+    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
             height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
