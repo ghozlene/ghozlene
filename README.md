@@ -12,8 +12,6 @@ ___
 
 - 🌱 I’m currently learning **React native**
 
-- 💬 Ask me about **MERN,FLUTTER,AWS,DOCKER**
-
 - 📫 How to reach me **medachrefg@gmail.com**
 
 ___
