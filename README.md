@@ -12,7 +12,12 @@ ___
 
 - 🌱 I’m currently learning **React native**
 
-- 📫 How to reach me **medachrefg@gmail.com**
+-<img
+            src="https://img.icons8.com/color/452/gmail--v2.png"
+            alt="nestjs" width="10" height="10" onmouseenter="this.style.color=red"
+            style="hover  border-radius: 20%; border:1px solid gray;" /> 
+
+How to reach me **medachrefg@gmail.com**
 
 ___
 
