@@ -149,7 +149,7 @@ ___
                 rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity"
                         width="40" height="40" /> </a> <a href="https://webpack.js.org" target="_blank"
                 rel="noreferrer"> <img
-                        src="https://webpack.js.org/site-logo.1fcab817090e78435061.svg"
+                        src="https://vectorwiki.com/images/l2oZr__webpack.svg"
                         alt="webpack" width="40" height="40" /> </a>
 </p>
 
