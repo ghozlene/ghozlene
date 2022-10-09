@@ -21,32 +21,32 @@ How to reach me **medachrefg@gmail.com**
 
 
 ___
+<div style="display:flex;gap:2px;">
+        <h3 align="left">Connect with me:</h3>
+        <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"
+                style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="60px"
+                height="40px" />
+</div>
+<div style="display: flex; gap:2px;">
 
-<h3 align="left">Connect with me:</h3>
-<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"
-        style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" width="60px"
-        height="40px" />
+        <a href="https://www.linkedin.com/in/mohamed-achref-ghozlene" target="blank">
+                <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
+                        alt="mohamed achref ghozléne" align="center"
+                        data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
+                        style="max-width: 100%;" />
+        </a>
+        <a href="https://www.facebook.com/achref.ghozlene.56/" target="blank">
+                <img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465"
+                        alt="Facebook" align="center"
+                        data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"
+                        style="max-width: 100%;" />
+        </a>
+        <a href="mailto:medachrefg@gmail.com">
+                <img src="https://camo.githubusercontent.com/2e31b0d0e07e5431ee3f85689b488016d52a4fb97e523ae497023a9746e2e52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
+                        align="center" alt="Gmail" style="max-width: 100%;" />
+        </a>
 
-
-
-<a href="https://www.linkedin.com/in/mohamed-achref-ghozlene" target="blank">
-        <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
-                alt="mohamed achref ghozléne" align="center"
-                data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
-                style="max-width: 100%;" />
-</a>
-<a href="https://www.facebook.com/achref.ghozlene.56/" target="blank">
-        <img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465"
-                alt="Facebook" align="center"
-                data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"
-                style="max-width: 100%;" />
-</a>
-<a href="mailto:medachrefg@gmail.com">
-        <img src="https://camo.githubusercontent.com/2e31b0d0e07e5431ee3f85689b488016d52a4fb97e523ae497023a9746e2e52e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
-                align="center" alt="Gmail" style="max-width: 100%;" />
-</a>
-
-
+</div>
 ___
 
 <h3 align="left">
