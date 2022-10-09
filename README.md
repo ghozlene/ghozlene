@@ -63,15 +63,11 @@ ___
                 data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"
                 style="max-width: 100%;" />
 </a>
-
 <a href="#">
-
         <img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"
                 style="max-width: 100%;" />
 </a>
-
-
 <a href="#">
         <img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"
@@ -90,7 +86,6 @@ ___
                 data-canonical-src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
                 style="max-width: 100%;" />
 </a>
-
 <a href="#">
 
         <img src="https://camo.githubusercontent.com/3e1012ffd12fb3c5a64eb49efb221ba71e9c84bb12f64b2a230351ae5a831da3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"
@@ -114,44 +109,38 @@ ___
 <a href="#">
         <img src="https://camo.githubusercontent.com/0dbbdfc31491dc81b7b873e69f2fceecaaa0494b73504edbbd8828f716aab6f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6573746a732d4530323334453f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
-                style="max-width: 100%;" /></a>
-
+                style="max-width: 100%;" />
+</a>
 <a href="#">
         <img src="https://camo.githubusercontent.com/84e40cc1b235376f4c7442551fecc84e99bbb6736ef470f7d8e7f9655393e2e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732532306a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-                style="max-width: 100%;" /></a>
-
-
-
+                style="max-width: 100%;" />
+</a>
 <a href="#">
         <img src="https://camo.githubusercontent.com/29026b68c52288230bf32bc2268e47e5c3b81dba23106fb062fcc0541f8e9529/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67756c61722d4444303033313f7374796c653d666f722d7468652d6261646765266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
-                style="max-width: 100%;" /></a>
+                style="max-width: 100%;" />
+</a>
 <a href="#">
         <img src="https://camo.githubusercontent.com/e9b080a6541e5355827ea91b6a0302cbbc54af4705b0c6b0f1561a0957ced2fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-                style="max-width: 100%;" /></a>
-
-
-
+                style="max-width: 100%;" />
+</a>
 <a href="#">
         <img src="https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-                style="max-width: 100%;" /></a>
-
-
-
-
+                style="max-width: 100%;" />
+</a>
 <a href="#">
         <img src="https://camo.githubusercontent.com/c5135c484e53a6aaad4e096fdf0c7ffde40fb6cc1530ea4cd16878de5b5adae0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174657269616c25323055692d3030374646463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7569266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"
-                style="max-width: 100%;" /></a>
-
-
+                style="max-width: 100%;" />
+</a>
 <a href="#">
         <img src="https://camo.githubusercontent.com/1994e9cf3b0ad01831975faafe9e8c7ead09cf24b8d5fb6ca45a5d38b4d33549/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
-                style="max-width: 100%;" /></a>
+                style="max-width: 100%;" />
+</a>
 
 
 <a href="#">
