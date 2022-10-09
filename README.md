@@ -87,10 +87,9 @@ ___
                 style="max-width: 100%;" />
 </a>
 <a href="#">
-
         <img src="https://camo.githubusercontent.com/3e1012ffd12fb3c5a64eb49efb221ba71e9c84bb12f64b2a230351ae5a831da3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white"
-                style="max-width: 100%;" />
+                style="max-width: 70%;" />
 </a>
 
 
@@ -212,7 +211,7 @@ ___
                 data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
                 style="max-width: 100%;" /></a>
 
-
+---------------
 
 <h3 align="left">
         <code>Devops:</code>
@@ -253,6 +252,8 @@ ___
         <img src="https://camo.githubusercontent.com/3bcc8da5c94cefdf2d976837d1be601f4d44d36b58d9590e36debe834a6e34de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
                 style="max-width: 100%;" /></a>
+---------------
+
 <h3 align="left">
         <code>Testing:</code>
 </h3>
