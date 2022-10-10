@@ -1,48 +1,6 @@
 <img align="center" height="240" width="3000" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"
         alt="banner">
 ___
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 50"
-        style="background-color: #00000000;" width="500px" height="60px">
-
-
-        <path id="path0">
-                <animate id="d0" attributeName="d" begin="0s;d2.end" dur="5000ms"
-                        values="m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0" keyTimes="0;0.8;0.8;1" />
-        </path>
-        <text font-family="&quot;monospace&quot;, monospace" fill="#36BCF7" font-size="30" dominant-baseline="auto"
-                x="50%" text-anchor="middle">
-                <textPath xlink:href="#path0">
-                        Hello, There! 👋
-                </textPath>
-        </text>
-
-        <path id="path1">
-                <animate id="d1" attributeName="d" begin="d0.end" dur="5000ms"
-                        values="m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0" keyTimes="0;0.8;0.8;1" />
-        </path>
-        <text font-family="&quot;monospace&quot;, monospace" fill="#36BCF7" font-size="30" dominant-baseline="auto"
-                x="50%" text-anchor="middle">
-                <textPath xlink:href="#path1">
-                        I'am GHOZLENE Mohamed Achref
-                </textPath>
-        </text>
-
-        <path id="path2">
-                <animate id="d2" attributeName="d" begin="d1.end" dur="5000ms"
-                        values="m0,25 h0 ; m0,25 h400 ; m0,25 h400 ; m0,25 h0" keyTimes="0;0.8;0.8;1" />
-        </path>
-        <text font-family="&quot;monospace&quot;, monospace" fill="#36BCF7" font-size="30" dominant-baseline="auto"
-                x="50%" text-anchor="middle">
-                <textPath xlink:href="#path2">
-                        Nice to meet you!
-                </textPath>
-        </text>
-
-</svg>
-
-
-
 <h1 align="center">Hi, <img
                 src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"
                 data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"
