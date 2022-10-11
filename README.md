@@ -145,11 +145,7 @@ ___
                 data-canonical-src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
                 style="max-width: 100%;" />
 </a>
-<a href="#">
-        <img src="https://camo.githubusercontent.com/c8ba10c63401eda115b458aecea59dc2f3caf7941ff22d6e66672b1b5202742f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496f6e69632d3338383046463f7374796c653d666f722d7468652d6261646765266c6f676f3d696f6e6963266c6f676f436f6c6f723d7768697465"
-                data-canonical-src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"
-                style="max-width: 100%;" />
-</a>
+
 
 -----------
 
