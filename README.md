@@ -303,7 +303,7 @@ ___
                 src="https://github-readme-streak-stats.herokuapp.com/?user=ghozlene&sshow_icons=true&theme=radical"
                 alt="ghozlene" width="400" /></p>
 
-___
+
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ghozlene&bg_color=000000&color=4c9e91&line=4c749e&point=41413e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"
         alt="Anurag's GitHub stats" style="max-width:70%; padding-top:20px;">
