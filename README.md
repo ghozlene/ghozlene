@@ -299,12 +299,7 @@ ___
                 src="https://github-readme-streak-stats.herokuapp.com/?user=ghozlene&sshow_icons=true&theme=radical"
                 alt="ghozlene" width="400" /></p>
 
-
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ghozlene)](https://github.com/ghozlene/github-readme-activity-graph)
-"
-        alt="Anurag's GitHub stats" style="max-width:70%; padding-top:20px;">
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ghozlene&theme=dracula)](https://github.com/ghozlene/github-readme-activity-graph)
 
         
         
