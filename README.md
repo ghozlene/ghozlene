@@ -285,8 +285,6 @@ ___
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ghozlene&theme=github-compact)](https://github.com/ghozlene/github-readme-activity-graph)
 
-
-
 ___
 
 <p><img align="left"
@@ -302,10 +300,5 @@ ___
                 src="https://github-readme-streak-stats.herokuapp.com/?user=ghozlene&sshow_icons=true&theme=radical"
                 alt="ghozlene" width="400" /></p>
 
-___
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ghozlene&theme=github-compact)](https://github.com/ghozlene/github-readme-activity-graph)
-___
-    
         
