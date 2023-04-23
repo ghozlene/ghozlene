@@ -301,6 +301,6 @@ ___
 
 
 
-<img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ghozlene)](https://github.com/ashutosh00710/github-readme-activity-graph)
-)"
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=ghozlene)](https://github.com/ghozlene/github-readme-activity-graph)
+"
         alt="Anurag's GitHub stats" style="max-width:70%; padding-top:20px;">
