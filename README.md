@@ -298,8 +298,8 @@ ___
 <p> &nbsp;<img align="right"
                 src="https://github-readme-streak-stats.herokuapp.com/?user=ghozlene&sshow_icons=true&theme=radical"
                 alt="ghozlene" width="400" /></p>
-<div width="400">
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ghozlene&theme=github-compact)](https://github.com/ghozlene/github-readme-activity-graph)
-</div>
+
         
         
