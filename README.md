@@ -283,7 +283,7 @@ ___
 ___
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ghozlene&theme=github-compact)](https://github.com/ghozlene/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ghozlene&theme=github-compact)]
 
 ___
 
