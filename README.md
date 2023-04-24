@@ -10,7 +10,7 @@ ___
 <h3 align="center">A passionate FullStack developer from Tunisia 🚀</h3>
 <img align="right" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="Coding"
         width="400">
-<p align="left"> <img src="hhttps://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghozlene&label=Profile%20views&color=0e75b6&style=flat"
                 alt="ghozlene" /> </p>
 
 
@@ -41,7 +41,7 @@ ___
                 style="max-width: 100%;" />
 </a>
 <a href="https://www.facebook.com/achref.ghozlene.56/" target="blank">
-        <img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465"
+        <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"
                 alt="Facebook" align="center"
                 data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white"
                 style="max-width: 100%;" />
