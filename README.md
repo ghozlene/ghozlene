@@ -283,22 +283,13 @@ ___
 ___
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ghozlene&theme=github-compact)
+
 
 ___
 
-<p><img align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=ghozlene&sshow_icons=true&theme=radical&locale=en&layout=compact"
-                alt="ghozlene" width="400" /></p>
-
-<p>&nbsp;<img align="right"
-                src="https://github-readme-stats.vercel.app/api?username=ghozlene&sshow_icons=true&theme=radical&locale=en"
-                alt="ghozlene" width="400" />
-</p>
-
-<p> &nbsp;<img align="right"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=ghozlene&sshow_icons=true&theme=radical"
-                alt="ghozlene" width="400" /></p>
-
+![](https://streak-stats.demolab.com?user=ghozlene&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghozlene&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghozlene&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ghozlene&theme=algolia&utcOffset=5.30)
 
         
