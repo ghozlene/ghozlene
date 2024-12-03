@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Kubernetes: Advanced Concepts and Best Practices**.
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/ghozlene?page=1&tab=repositories](https://github.com/ghozlene))**.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/ghozlene?tab=repositories)**.
 
 <br>
 <div align="center">
@@ -25,7 +25,7 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=Angular,React,javascript,Typescript,Sass,html5,nodejs,Aws,gitlab,dart,firebase,cpp,java,python" />
     <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
 </div>
 
@@ -65,21 +65,14 @@
 ## 🤝 Connect With Me:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/##/" target="_blank">
+    <a href="https://www.linkedin.com/in/##/](https://www.linkedin.com/in/mohamed-achref-ghozlene/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="mailto:##">
+  <a href="mailto:medachrefg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
         <a href="https://mostaql.com/u/ghozlene/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-    <a href="https://youtube.com/@##?si=bHNizIHn9dIL3jX7">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-     </a>
-     <a href="https://t.me/##">
-    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
