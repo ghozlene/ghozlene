@@ -22,7 +22,24 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
+## 🤝 Connect With Me:
 
+<div align="center">
+    <a href="https://www.linkedin.com/in/##/](https://www.linkedin.com/in/mohamed-achref-ghozlene/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+  <a href="mailto:medachrefg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
+</div>
+
+<br>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
+</div>
+
+<br>
 ## 🚀 Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=Angular,React,javascript,Typescript,Sass,html5,nodejs,Aws,gitlab,dart,firebase,cpp,java,python" />
@@ -62,18 +79,6 @@
 </h3>
 
 <br/>
-## 🤝 Connect With Me:
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/##/](https://www.linkedin.com/in/mohamed-achref-ghozlene/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-  <a href="mailto:medachrefg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-
-</div>
-
-<br>
 
 <a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
