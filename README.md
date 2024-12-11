@@ -11,7 +11,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Full Stack js Developer 📱** | **Devops engineer 📱** .
+- 🔭 I’m currently working as a **Software Engineer 💻** | **Full Stack js Developer 📱** .
 
 - 🌱 I’m currently learning **Kubernetes: Advanced Concepts and Best Practices**.
 
